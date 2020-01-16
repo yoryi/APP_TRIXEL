@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "APP_TRIXEL",
+    "slug": "APP_TRIXEL",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Images/icon.png",
+    "splash": {
+      "image": "./assets/Images/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F3F7F9"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
